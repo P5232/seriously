@@ -38,7 +38,7 @@ Next came the front and rear axles. I did the front axle just fine, but I couldn
 
 The front a rear derailleurs were degreased, rinsed, and then regreased for assembly. I used Boeshield T-9 light oil on all the pivot points and premium grease to coat the steel springs. 
 
-Of all the bearings in the bikes, the pedal greese seemed to be the most broken down. The Bottom Bracket and Fork bearings had grease that was at least still present though extremely dry and too viscous. The pedal bearings fell out and black liquid came with it. There was noticable rusting on one of the pedal threads. It is at though water penetrated that area, thinned out the grease, and initiated rusting of the part. The pedals and axles went into the Evapo-Rust and were re-greased with general grease. The bearings were re-set with premium Shimano grease. 
+Of all the bearings in the bikes, the pedal grease seemed to be the most broken down. The Bottom Bracket and Fork bearings had grease that was at least still present though extremely dry and too viscous. The pedal bearings fell out and black liquid came with it. There was noticable rusting on one of the pedal threads. It is as though water penetrated that area, thinned out the grease, and initiated rusting of the part. The pedals and axles went into the Evapo-Rust and were re-greased with general grease. The bearings were re-set with premium Shimano grease. 
 
 Finally, the brake assemblies and shifter assemblies were re-built paying close attention to greasing the moving parts to ensure smooth motion. I never knew the shifters actually clicked going in one direction until I re-built them.
 
@@ -74,7 +74,7 @@ The rest of the pictures are just after overhaul. Everything but the old paint j
 Here is the breakdown of the material costs. If I included labor, it would be priceless. I am ready for my next project.
 
 | Bike Part | Price |
-|:------------|:-----:|
+|:---|:----:|
 | 1 Bike | $50 |
 | 2 Tires & Tubes | $51 |
 | 1 Seat | $16 |
@@ -84,5 +84,5 @@ Here is the breakdown of the material costs. If I included labor, it would be pr
 | Brake Pads | $10 |
 | 2 Transmission Wire | $10 |
 | White Outer Housing Cable | $11 |
-| **Total**       | **$200** |
+| **Total** | **$200** |
 
