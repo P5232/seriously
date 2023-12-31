@@ -33,8 +33,11 @@ $brand-color:      rgb(230, 107, 30) !default;
     margin-right:auto;
 }
 .caption p {
+    font-family: 'Open Sans';
     font-style: italic;
-    color: #474646;
+    font-weight: bold;
+    color: #575656;
+    text-align: center;
 }
 
 img{

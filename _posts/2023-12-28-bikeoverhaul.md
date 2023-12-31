@@ -26,8 +26,8 @@ Here are a few of the before pictures:
 
 <div class="center-div-sm">
   <img src="/assets/img/20231228_crankbefore.jpg" alt="image of the bottom bracket before overhaul">
+    <p class="caption">The Crank before Overhaul</p>
 </div>
-*The Crank before Overhaul*
 
 ![image of the pedal before overhaul](/assets/img/20231228_pedalbefore.jpg){:width="300px"}
 *The Pedal and Axle before Overhaul*
