@@ -5,7 +5,7 @@ categories: [Hobbies]
 tags: [hobbies, biking, repair]     # TAG names should always be lowercase
 ---
 
-The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd.html">Biking MD</a> continues. After multiple lunch-time trips around the BWI path, the old 1971 Schwinn "knock-off" (it was made in Japan and only shows the Schwinn name on parts like the Derailleur, Brakes, and Bearings) was starting to show her age. The chain was whining in all but the perfect alignment of the gears. The resistance in the jockey-wheels was so bad that I couldn't pedal backwards without slacking the chain. The largest gear on the crank would not easily transfer basck down to the lower gear giving me essentially 5 gears to work with instead of 10. 
+The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd.html">Biking MD</a> continues. After multiple lunch-time trips around the BWI path, the old 1971 Schwinn "knock-off" (it was made in Japan and only shows the Schwinn name on parts like the Derailleur, Brakes, and Bearings) was starting to show her age. The chain was whining in all but the perfect alignment of the gears. The resistance in the jockey-wheels was so bad that I couldn't pedal backwards without slacking the chain. The largest gear on the crank would not easily transfer back down to the lower gear giving me essentially 5 gears to work with instead of 10. 
 
 It was time for the winter break project. Before my first day of vacation even started, I had the bike down to the bare frame awaiting a full overhaul. Poor planning on my part resulted in few "before" pictures and zero picture of the bearing rebuilds. Room for improvement for next time.
 
