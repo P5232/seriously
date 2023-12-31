@@ -24,7 +24,9 @@ Here are a few of the before pictures:
 
 *The Full Bike Upside-down before Overhaul*
 
-![image of the bottom bracket before overhaul](/assets/img/20231228_crankbefore.jpg){:width="300"}
+<div class="center-div-sm">
+  <img src="/assets/img/20231228_crankbeforee.jpg" alt="image of the bottom bracket before overhaul">
+</div>
 *The Crank before Overhaul*
 
 ![image of the pedal before overhaul](/assets/img/20231228_pedalbefore.jpg){:width="300px"}
