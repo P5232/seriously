@@ -9,7 +9,7 @@ The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd
 
 It was time for the winter break project. Before my first day of vacation even started, I had the bike down to the bare frame awaiting a full overhaul. Poor planning on my part resulted in few "before" pictures and zero picture of the bearing rebuilds. Room for improvement for next time.
 
-![image of a bare bike frame in a stand in a messy garage](/assets/img/20231228_frame.jpg){: width="600px"; style="float: center"}<br/>
+![image of a bare bike frame in a stand in a messy garage](/assets/img/20231228_frame.jpg){: width="600"}
 *The Bare Frame*
 
 Here are a few of the before pictures:
