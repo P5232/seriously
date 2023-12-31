@@ -19,15 +19,16 @@ $base-font-family: 'Open Sans', sans-serif;
   }
 
 .center-div-lg {
-    width: 60%;
+    width: 90%;
     align-items: center;
     margin-left:auto;
     margin-right:auto;
     border: 10px gray;
-
+    padding: 5px;
 }
 
-.img-border img {
+.img-border {
     border-radius: 8px;
     border-image: 5px black;
+    width: 75%;
   }
