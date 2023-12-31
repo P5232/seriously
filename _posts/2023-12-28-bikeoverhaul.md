@@ -9,18 +9,21 @@ The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd
 
 It was time for the winter break project. Before my first day of vacation even started, I had the bike down to the bare frame awaiting a full overhaul. Poor planning on my part resulted in few "before" pictures and zero picture of the bearing rebuilds. Room for improvement for next time.
 
-![image of a bare bike frame in a stand in a messy garage](/assets/img/20231228_frame.jpg){:width="600px"}
+![image of a bare bike frame in a stand in a messy garage](/assets/img/20231228_frame.jpg){:width="60%"}<br/>
 *The Bare Frame*
 
 Here are a few of the before pictures:
 
-![image of the full bike before overhaul](/assets/img/20231228_before.jpg){:width="600px"}
+![image of the full bike before overhaul](/assets/img/20231228_before.jpg){:width="600px"}<br/>
 *The Full Bike before Overhaul*
-![image of the full bike upside-down before overhaul](/assets/img/20231228_before2.jpg){:width="600px"}
+
+![image of the full bike upside-down before overhaul](/assets/img/20231228_before2.jpg){:width="600px"}<br/>
 *The Full Bike Upside-down before Overhaul*
-![image of the bottom bracket before overhaul](/assets/img/20231228_crankbefore.jpg){:width="300px"}
+
+![image of the bottom bracket before overhaul](/assets/img/20231228_crankbefore.jpg){:width="300px"}<br/>
 *The Crank before Overhaul*
-![image of the pedal before overhaul](/assets/img/20231228_pedalbefore.jpg){:width="300px"}
+
+![image of the pedal before overhaul](/assets/img/20231228_pedalbefore.jpg){:width="300px"}<br/>
 *The Pedal and Axle before Overhaul*
 
 The first item to go back on the bike was the Bottom Bracket. This took longer than expected since I had to soak the rusted portions of the chrome in Evapo-rust. The 1-piece crank could only submerge so far which ended up taking a couple of days to get the rust off. The grease came out of the cage bearings just fine using the ultrasonic cleaner with carb degreaser. I filled the cages with Shimano Premium grease and re-assembled the bottom bracket. I got the system tight enough to not feel any play, but loose enough not to overload the bearings in the cup and cone.
@@ -35,22 +38,27 @@ Finally, the brake assemblies and shifter assemblies were re-built paying close 
 
 The original brake and transmission line outer housings were all black. I decided to upgrade to white outer housings to match the handlebar grip tap and provide a little more contrast against the worn original rusty red paint color. Here is one of the few before and after shots:
 
-![image of the bottom bracket before overhaul](/assets/img/20231228_beforeBB.jpg){:width="300px"}
+![image of the bottom bracket before overhaul](/assets/img/20231228_beforeBB.jpg){:width="300px"}<br/>
 *The Crank Before*
-![image of the bottom bracket after overhaul](/assets/img/20231228_after_1.JPG){:width="300px"}
+
+![image of the bottom bracket after overhaul](/assets/img/20231228_after_1.JPG){:width="300px"}<br/>
 *The Crank After*
 
 The rest of the pictures are just after overhaul. Everything but the old paint job really shines. It rides so smoothly now.
 
-![image of the Rear Cassette and Derailleur after overhaul](/assets/img/20231228_after_2.JPG){:width="300px"}
+![image of the Rear Cassette and Derailleur after overhaul](/assets/img/20231228_after_2.JPG){:width="300px"}<br/>
 *The Rear Cassette and Derailleur After*
-![image of the geartrain after overhaul](/assets/img/20231228_after6.JPG){:width="300px"}
+
+![image of the geartrain after overhaul](/assets/img/20231228_after6.JPG){:width="300px"}<br/>
 *The Geartrain After*
-![image of from the front after overhaul](/assets/img/20231228_after7.JPG){:width="300px"}
+
+![image of from the front after overhaul](/assets/img/20231228_after7.JPG){:width="300px"}<br/>
 *The front Emblem and Brakes After*
-![image of the left side after overhaul](/assets/img/20231228_after5.JPG){:width="600px"}
+
+![image of the left side after overhaul](/assets/img/20231228_after5.JPG){:width="600px"}<br/>
 *The Left Side After*
-![image of the right side after overhaul](/assets/img/20231228_after8.JPG){:width="600px"}
+
+![image of the right side after overhaul](/assets/img/20231228_after8.JPG){:width="600px"}<br/>
 *The Right Side After*
 
 Here is the breakdown of the material costs. If I included labor, it would be priceless. I am ready for my next project.
