@@ -15,9 +15,11 @@ It was time for the winter break project. Before my first day of vacation even s
 Here are a few of the before pictures:
 
 ![image of the full bike before overhaul](/assets/img/20231228_before.jpg){:width="600"}
+
 *The Full Bike before Overhaul*
 
 ![image of the full bike upside-down before overhaul](/assets/img/20231228_before2.jpg){:width="600"}
+
 *The Full Bike Upside-down before Overhaul*
 
 ![image of the bottom bracket before overhaul](/assets/img/20231228_crankbefore.jpg){:width="300"}
@@ -47,18 +49,22 @@ The original brake and transmission line outer housings were all black. I decide
 The rest of the pictures are just after overhaul. Everything but the old paint job really shines. It rides so smoothly now.
 
 ![image of the Rear Cassette and Derailleur after overhaul](/assets/img/20231228_after_2.JPG){:width="600"}
+
 *The Rear Cassette and Derailleur After*
 
 ![image of the geartrain after overhaul](/assets/img/20231228_after6.JPG){:width="600"}
+
 *The Geartrain After*
 
 ![image of from the front after overhaul](/assets/img/20231228_after7.JPG){:width="300"}
 *The front Emblem and Brakes After*
 
 ![image of the left side after overhaul](/assets/img/20231228_after5.JPG){:width="600"}
+
 *The Left Side After*
 
 ![image of the right side after overhaul](/assets/img/20231228_after8.JPG){:width="600"}
+
 *The Right Side After*
 
 Here is the breakdown of the material costs. If I included labor, it would be priceless. I am ready for my next project.
