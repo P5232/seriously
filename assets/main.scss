@@ -5,7 +5,9 @@
 /* Override theme defaults */
 /*$base-font-family:'Roboto', sans-serif;*/
 $base-font-family: 'Open Sans', sans-serif;
-
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      hsl(43, 87%, 54%) !default;
 
 /* load _sass/minima.scss */
 @import "minima";
@@ -23,12 +25,10 @@ $base-font-family: 'Open Sans', sans-serif;
     align-items: center;
     margin-left:auto;
     margin-right:auto;
-    border: 10px gray;
-    padding: 5px;
+    border: 10px #636262;
 }
 
-.img-border {
+.img-border img{
     border-radius: 8px;
     border-image: 5px black;
-    width: 75%;
   }
