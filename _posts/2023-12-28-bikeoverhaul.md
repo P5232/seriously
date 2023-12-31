@@ -11,8 +11,8 @@ It was time for the winter break project. Before my first day of vacation even s
 
 <div class="center-div-lg">
   <img src="/assets/img/20231228_frame.jpg" alt="image of a bare bike frame in a stand in a messy garage">
+  <p class="caption">The Bare Frame</p>
 </div>
-*The Bare Frame*
 
 Here are a few of the before pictures:
 
