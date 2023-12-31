@@ -11,7 +11,7 @@ It was time for the winter break project. Before my first day of vacation even s
 
 <div class="center-div-lg">
   <img class="borderimg" src="/assets/img/20231228_frame.jpg" alt="image of a bare bike frame in a stand in a messy garage">
-  <p class="caption">The Bare Frame 2</p>
+  <p class="caption">The Bare Frame</p>
 </div>
 
 Here are a few of the before pictures:
@@ -26,7 +26,7 @@ Here are a few of the before pictures:
 
 <div class="center-div-sm">
   <img class="borderimg" src="/assets/img/20231228_crankbefore.jpg" alt="image of the bottom bracket before overhaul">
-    <p class="caption">The Crank before Overhaul 2</p>
+    <p class="caption">The Crank before Overhaul</p>
 </div>
 
 ![image of the pedal before overhaul](/assets/img/20231228_pedalbefore.jpg){:width="300px"}
