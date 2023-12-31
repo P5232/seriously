@@ -5,7 +5,7 @@ categories: [Hobbies]
 tags: [hobbies, biking, repair]     # TAG names should always be lowercase
 ---
 
-The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd.html">Biking MD</a> continues. After multiple lunch-time trips around the BWI path, the old 1971 Schwinn knock-off was starting to show her age. The chain was whining in all but the perfect alignment of the gears. The resistance in the jockey-wheels was so bad that I couldn't pedal backwards without slacking the chain. The largest gear on the crank would not easily transfer basck down to the lower gear giving me essentially 5 gears to work with instead of 10. 
+The story from <a href="https://www.seriouslymatt.com/biking/2023/11/05/bikingmd.html">Biking MD</a> continues. After multiple lunch-time trips around the BWI path, the old 1971 Schwinn "knock-off" (it was made in Japan and only shows the Schwinn name on parts like the Derailleur, Brakes, and Bearings) was starting to show her age. The chain was whining in all but the perfect alignment of the gears. The resistance in the jockey-wheels was so bad that I couldn't pedal backwards without slacking the chain. The largest gear on the crank would not easily transfer basck down to the lower gear giving me essentially 5 gears to work with instead of 10. 
 
 It was time for the winter break project. Before my first day of vacation even started, I had the bike down to the bare frame awaiting a full overhaul. Poor planning on my part resulted in few "before" pictures and zero picture of the bearing rebuilds. Room for improvement for next time.
 
@@ -33,16 +33,38 @@ Of all the bearings in the bikes, the pedal greese seemed to be the most broken 
 
 Finally, the brake assemblies and shifter assemblies were re-built paying close attention to greasing the moving parts to ensure smooth motion. I never knew the shifters actually clicked going in one direction until I re-built them.
 
-The original brake and transmission line outer housings were all black. I decided to upgrade to white outer housings to match the handlebar grip tap and provide a little more contrast against the worn original rusty red paint color.
+The original brake and transmission line outer housings were all black. I decided to upgrade to white outer housings to match the handlebar grip tap and provide a little more contrast against the worn original rusty red paint color. Here is one of the few before and after shots:
 
 ![image of the bottom bracket before overhaul](/assets/img/20231228_beforeBB.jpg){: w="600"}
 *The Crank Before*
 ![image of the bottom bracket after overhaul](/assets/img/20231228_after_1.JPG){: w="600"}
 *The Crank After*
+
+The rest of the pictures are just after overhaul. Everything but the old paint job really shines. It rides so smoothly now.
+
 ![image of the Rear Cassette and Derailleur after overhaul](/assets/img/20231228_after_2.JPG){: w="600"}
 *The Rear Cassette and Derailleur After*
-![image of the Crank, Chain-guard, and Pedal after overhaul](/assets/img/20231228_after_3.JPG){: w="600"}
-*The Crank, Chain-guard, and Pedal After*
-![image of the front emblem and brakes after overhaul](/assets/img/20231228_after_4.JPG){: w="600"}
+![image of the geartrain after overhaul](/assets/img/20231228_after6.JPG){: w="600"}
+*The Geartrain After*
+![image of from the front after overhaul](/assets/img/20231228_after7.JPG){: w="300"}
 *The front Emblem and Brakes After*
+![image of the left side after overhaul](/assets/img/20231228_after5.JPG){: w="600"}
+*The Left Side After*
+![image of the right side after overhaul](/assets/img/20231228_after8.JPG){: w="600"}
+*The Right Side After*
+
+Here is the breakdown of the material costs. If I included labor, it would be priceless. I am ready for my next project.
+
+| Bike Part | Price |
+|:------------|:-----:|
+| 1 Bike | $50 |
+| 2 Tires & Tubes | $51 |
+| 1 Seat | $16 |
+| Grip Tape | $11 |
+| Extra 2 Tubes (punctured 1)| $15|
+| Chain | $26 |
+| Brake Pads | $10 |
+| 2 Transmission Wire | $10 |
+| White Outer Housing Cable | $11 |
+| **Total**       | **$200** |
 
