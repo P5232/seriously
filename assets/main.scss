@@ -7,7 +7,7 @@
 $base-font-family: 'Open Sans', sans-serif;
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      rgb(230, 107, 30) !default;
+$brand-color:      #1e75e6 !default;
 
 /* load _sass/minima.scss */
 @import "minima";
@@ -32,15 +32,14 @@ $brand-color:      rgb(230, 107, 30) !default;
     margin-left:auto;
     margin-right:auto;
 }
-.caption p {
+.caption {
     font-family: 'Open Sans';
     font-style: italic;
     font-weight: bold;
-    color: #575656;
+    color: #d66c0f;
     text-align: center;
 }
-
-img{
+.borderimg{
     border-radius: 10px;
     border: 2px solid black;
   }
