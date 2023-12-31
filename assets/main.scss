@@ -11,4 +11,18 @@ $base-font-family: 'Open Sans', sans-serif;
 @import "minima";
 
 /* Put any custom CSS here */
+@media screen and (max-width: 1100px) {
+    .site-nav {
+      position: absolute;
+      right: 90px;
+    }
+  }
 
+.center-img-lg {
+    width: 100%;
+    border: 5px dotted black;
+    border-radius: 10%;
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+}
