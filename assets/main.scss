@@ -26,9 +26,10 @@ $brand-color:      hsl(43, 87%, 54%) !default;
     margin-left:auto;
     margin-right:auto;
     border: 10px #636262;
+    border-radius: 8px;
 }
 
 .img-border img{
     border-radius: 8px;
-    border-image: 5px black;
+    border: 5px black;
   }
