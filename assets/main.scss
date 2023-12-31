@@ -23,9 +23,11 @@ $base-font-family: 'Open Sans', sans-serif;
     align-items: center;
     margin-left:auto;
     margin-right:auto;
+    border: 10px gray;
+
 }
 
 .img-border img {
     border-radius: 8px;
-    border: 5px black;
+    border-image: 5px black;
   }
