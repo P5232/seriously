@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Elimination Diet, 1 week in
 date: 2023-01-01 19:00:00 -0500
 categories: [Health, Diet]

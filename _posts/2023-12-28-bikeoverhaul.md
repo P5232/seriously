@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bike Overhaul
 date: 2023-12-28 18:00:00 -0500
 categories: [Hobbies]

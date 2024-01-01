@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Electrolyte Water
 date: 2023-04-09 09:00:00 -0500
 categories: [Health, Performance]

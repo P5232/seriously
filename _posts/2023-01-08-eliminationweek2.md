@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Elimination Diet, Week 2
 date: 2023-01-08 19:00:00 -0500
 categories: [Health, Diet]

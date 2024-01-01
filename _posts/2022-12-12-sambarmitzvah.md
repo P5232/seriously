@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sam's Bar Mitzvah
 date: 2022-12-12 19:00:00 -0500
 categories: [Family]

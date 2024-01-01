@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bringing Back Leg Warmers
 date: 2022-11-24 10:00:00 -0500
 categories: [Product Reviews]

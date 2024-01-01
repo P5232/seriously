@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Diet and Heart Disease
 date: 2022-11-22 17:00:00 -0500
 categories: [Health, Diet]
